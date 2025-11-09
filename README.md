@@ -4,7 +4,7 @@ This repository demonstrates a GitHub Actions matrix build that produces and upl
 
 Workflow: `.github/workflows/matrix-build.yml`
 
-Contact: replace-this-with-your-email@example.com
+Contact: 22f3002374@ds.study.iitm.ac.in
 
 How to run
 
